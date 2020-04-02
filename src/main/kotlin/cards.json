@@ -1,0 +1,422 @@
+{
+    "ARCHERS": [
+        "arch",
+        "archers"
+    ],
+    "ARROWS": [
+        "arrow",
+        "arr",
+        "arrows"
+    ],
+    "BABYDRAGON": [
+        "bbd",
+        "babyd",
+        "bd",
+        "babydragon",
+        "babydrag",
+        "bdrag"
+    ],
+    "BALLOON": [
+        "loon",
+        "baloon",
+        "balloon"
+    ],
+    "BANDIT": [
+        "band",
+        "bandit"
+    ],
+    "BARBARIANBARREL": [
+        "bb",
+        "barbbarrel",
+        "barbb",
+        "bbarrel",
+        "barbarianbarrel"
+    ],
+    "BARBARIANHUT": [
+        "barbhut",
+        "bh",
+        "barbarianhut"
+    ],
+    "BARBARIANS": [
+        "barb",
+        "barbs",
+        "barbarians"
+    ],
+    "BATS": [
+        "bat",
+        "bats"
+    ],
+    "BATTLERAM": [
+        "br",
+        "ram",
+        "bram",
+        "battleram"
+    ],
+    "BOMBER": [
+        "bomber"
+    ],
+    "BOMBTOWER": [
+        "bt",
+        "bombtower"
+    ],
+    "BOWLER": [
+        "bowler"
+    ],
+    "CANNON": [
+        "cannon"
+    ],
+    "CANNONCART": [
+        "cc",
+        "cart",
+        "cannoncart"
+    ],
+    "CLONE": [
+        "clone"
+    ],
+    "DARKPRINCE": [
+        "dp",
+        "dankprince",
+        "darkprince"
+    ],
+    "DARTGOBLIN": [
+        "dg",
+        "dartgob",
+        "dartgobs",
+        "dartgoblin"
+    ],
+    "ELECTRODRAGON": [
+        "ed",
+        "edrag",
+        "electrodragon",
+        "edragon"
+    ],
+    "ELECTROWIZARD": [
+        "ew",
+        "ewiz",
+        "ewizard",
+        "electrowizard"
+    ],
+    "ELITEBARBARIANS": [
+        "eb",
+        "ebarb",
+        "ebarbs",
+        "elitebarbarians"
+    ],
+    "ELIXIRCOLLECTOR": [
+        "ec",
+        "pump",
+        "collector",
+        "elixircollector"
+    ],
+    "EXECUTIONER": [
+        "ex",
+        "exe",
+        "exec",
+        "executioner"
+    ],
+    "FIREBALL": [
+        "fb",
+        "fireball"
+    ],
+    "FIRESPIRITS": [
+        "fs",
+        "firespirits"
+    ],
+    "FLYINGMACHINE": [
+        "fm",
+        "fly",
+        "machine",
+        "flyingmachine"
+    ],
+    "FREEZE": [
+        "freeze"
+    ],
+    "FURNACE": [
+        "furnace"
+    ],
+    "GIANT": [
+        "giant"
+    ],
+    "GIANTSKELETON": [
+        "gs",
+        "giantskeleton",
+        "giantskelly"
+    ],
+    "GIANTSNOWBALL": [
+        "snow",
+        "sb",
+        "gsb",
+        "snowball",
+        "giantsnowball"
+    ],
+    "GOBLINBARREL": [
+        "gb",
+        "gobbarrel",
+        "barrel",
+        "goblinbarrel"
+    ],
+    "GOBLINGANG": [
+        "gg",
+        "gobgang",
+        "goblingang"
+    ],
+    "GOBLINGIANT": [
+        "ggiant",
+        "ggi",
+        "goblingiant",
+        "goblingiant"
+    ],
+    "GOBLINHUT": [
+        "gobhut",
+        "gobhut",
+        "gh",
+        "goblinhut"
+    ],
+    "GOBLINS": [
+        "gobs",
+        "gob",
+        "stabgobs",
+        "stabgob",
+        "goblins",
+        "goblin"
+    ],
+    "GOLEM": [
+        "golem"
+    ],
+    "GRAVEYARD": [
+        "gy",
+        "skillyard",
+        "graveyard",
+        "gyard"
+    ],
+    "GUARDS": [
+        "guards"
+    ],
+    "HEAL": [
+        "heal"
+    ],
+    "HOGRIDER": [
+        "hog",
+        "hogrider"
+    ],
+    "HUNTER": [
+        "htr",
+        "hu",
+        "hunter"
+    ],
+    "ICEGOLEM": [
+        "ig",
+        "icegolem"
+    ],
+    "ICESPIRIT": [
+        "is",
+        "icespirit"
+    ],
+    "ICEWIZARD": [
+        "iw",
+        "icewiz",
+        "iwiz",
+        "icewiz",
+        "icewizard"
+    ],
+    "INFERNODRAGON": [
+        "id",
+        "infernodragon"
+    ],
+    "INFERNOTOWER": [
+        "inferno",
+        "it",
+        "infernotower"
+    ],
+    "KNIGHT": [
+        "knight"
+    ],
+    "LAVAHOUND": [
+        "lava",
+        "lh",
+        "hound",
+        "lavahound"
+    ],
+    "LIGHTNING": [
+        "lightning"
+    ],
+    "LUMBERJACK": [
+        "lj",
+        "lumberjack"
+    ],
+    "MAGICARCHER": [
+        "ma",
+        "magicarcher",
+        "marcher"
+    ],
+    "MEGAKNIGHT": [
+        "mk",
+        "mknight",
+        "megaknight"
+    ],
+    "MEGAMINION": [
+        "mm",
+        "metaminion",
+        "mega",
+        "megaminion"
+    ],
+    "MINER": [
+        "miner"
+    ],
+    "MINIONHORDE": [
+        "mh",
+        "horde",
+        "minionhorde"
+    ],
+    "MINIONS": [
+        "minions",
+        "minion"
+    ],
+    "MINIPEKKA": [
+        "minip",
+        "minip",
+        "mp",
+        "minipekka"
+    ],
+    "MIRROR": [
+        "mirror"
+    ],
+    "MORTAR": [
+        "mortor",
+        "mortar"
+    ],
+    "MUSKETEER": [
+        "1m",
+        "musk",
+        "musky",
+        "musketeer"
+    ],
+    "NIGHTWITCH": [
+        "nwitch",
+        "nw",
+        "nightwitch"
+    ],
+    "PEKKA": [
+        "pekka"
+    ],
+    "POISON": [
+        "poison"
+    ],
+    "PRINCE": [
+        "prince"
+    ],
+    "PRINCESS": [
+        "princess"
+    ],
+    "RAGE": [
+        "rage"
+    ],
+    "RAMRIDER": [
+        "rrider",
+        "rrr",
+        "ramr",
+        "ramrider",
+        "ramrider"
+    ],
+    "RASCALS": [
+        "ras",
+        "r",
+        "rascals"
+    ],
+    "ROCKET": [
+        "rocket"
+    ],
+    "ROYALGHOST": [
+        "ghost",
+        "royalghost"
+    ],
+    "ROYALGIANT": [
+        "rg",
+        "rgg",
+        "royalgiant"
+    ],
+    "ROYALHOGS": [
+        "rh",
+        "royalhog",
+        "royalhogs",
+        "royalhogs"
+    ],
+    "ROYALRECRUITS": [
+        "rr",
+        "royalrecruits"
+    ],
+    "SKELETONARMY": [
+        "skarmy",
+        "sa",
+        "skeletonarmy",
+        "army"
+    ],
+    "SKELETONBARREL": [
+        "sbarrel",
+        "sb",
+        "skeletonbarrel"
+    ],
+    "SKELETONS": [
+        "skele",
+        "sk",
+        "skellys",
+        "skeletons"
+    ],
+    "SPARKY": [
+        "sparky"
+    ],
+    "SPEARGOBLINS": [
+        "speargobs",
+        "speargob",
+        "sgobs",
+        "sgob",
+        "sg",
+        "spear",
+        "speargobs",
+        "speargoblins"
+    ],
+    "TESLA": [
+        "tesla"
+    ],
+    "THELOG": [
+        "log",
+        "thelog"
+    ],
+    "THREEMUSKETEERS": [
+        "3m",
+        "3musk",
+        "3musks",
+        "muskies",
+        "threemusketeers"
+    ],
+    "TOMBSTONE": [
+        "ts",
+        "tombstone"
+    ],
+    "TORNADO": [
+        "nado",
+        "tornado"
+    ],
+    "VALKYRIE": [
+        "valk",
+        "valkyrie"
+    ],
+    "WITCH": [
+        "witch"
+    ],
+    "WIZARD": [
+        "wiz",
+        "wizard"
+    ],
+    "XBOW": [
+        "xbow",
+        "x-bow"
+    ],
+    "ZAP": [
+        "zap"
+    ],
+    "ZAPPIES": [
+        "zp",
+        "zappies"
+    ]
+}

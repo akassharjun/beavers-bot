@@ -1,0 +1,46 @@
+buildscript {
+    ext.kotlin_version = '1.3.21'
+
+    repositories {
+        mavenCentral()
+        jcenter()
+        maven { url 'https://jitpack.io' }
+    }
+    dependencies {
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+    }
+}
+
+group 'com.github.akassharjun'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'kotlin'
+
+repositories {
+    mavenCentral()
+    jcenter()
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+
+    // API Calls
+    compile 'io.github.rybalkinsd:kohttp:0.7.1'
+    compile 'com.google.code.gson:gson:2.8.5'
+
+    // DISCORD JAVA API
+    compile 'net.dv8tion:JDA:3.8.1_454'
+    compile 'com.jagrosh:jda-utilities:2.1.5'
+    compile "org.slf4j:slf4j-simple:1.6.1"
+
+    // DATABASE
+    compile 'org.litote.kmongo:kmongo:3.9.2'
+}
+
+compileKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
+compileTestKotlin {
+    kotlinOptions.jvmTarget = "1.8"
+}
