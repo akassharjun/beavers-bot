@@ -4,6 +4,7 @@ A discord bot written in Kotlin using JDA-utils for a Clash Royale discord serve
 
 ## Prequirements
 
+- JDK 8.0
 - Kotlin
 - MongoDB
 
